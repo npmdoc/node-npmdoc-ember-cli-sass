@@ -1,4 +1,7 @@
-# api documentation for  [ember-cli-sass (v6.1.2)](https://github.com/aexmachina/ember-cli-sass)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-cli-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-cli-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-cli-sass.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-cli-sass)
+# npmdoc-ember-cli-sass
+
+#### api documentation for  [ember-cli-sass (v6.1.2)](https://github.com/aexmachina/ember-cli-sass)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-cli-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-cli-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-cli-sass.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-cli-sass)
+
 #### Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths
 
 [![NPM](https://nodei.co/npm/ember-cli-sass.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-cli-sass)

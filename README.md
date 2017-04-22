@@ -98,7 +98,8 @@
         "start": "ember server",
         "test": "ember try:each"
     },
-    "version": "6.1.2"
+    "version": "6.1.2",
+    "bin": {}
 }
 ```
 
